@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql+mysqlconnector://root:@localhost/coding spot",
+    "prod_uri":"mysql+mysqlconnector://root:@localhost/coding spot",
+    "fb_url":"http://facebook.com/coding spot",
+    "tw_url":"http://twitter.com/coding spot",
+    "git_url":"http://github.com/coding spot",
+    "blog_name":"CODING spot",
+    "USER-ID":"Pratyushshishodiya@gmail.com",
+    "USER-PASS":"9810745357",
+    "login_img":"dashboard.svg",
+    "admin_user":"Pratyush",
+    "admin_pass":"password"
+  }
+}
